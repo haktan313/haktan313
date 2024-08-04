@@ -7,16 +7,16 @@
  
 <p align="center">
 <a href="https://www.linkedin.com/in/haktan-%C3%A7a%C4%9Fr%C4%B1-kodat-3b01b7297/" target="blank">
-    <img align="center" src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png" alt="LinkedIn" width="35"/></a>
+    <img align="center" src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png" alt="LinkedIn" width="69"/></a>
   
 <a href="https://haktan0313.itch.io/" target="blank">
-    <img align="center" src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-wwio9bi8.png" alt="itch.io" width="35"/></a> 
+    <img align="center" src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-wwio9bi8.png" alt="itch.io" width="69"/></a> 
   
 <a href="https://www.instagram.com/haktan_muaddib/" target="blank">
-    <img align="center" src="https://freepngimg.com/download/computer/68394-computer-instagram-icons-png-file-hd.png" alt="Instagram" width="38"/></a> 
+    <img align="center" src="https://freepngimg.com/download/computer/68394-computer-instagram-icons-png-file-hd.png" alt="Instagram" width="69"/></a> 
  
 <a href="https://www.youtube.com/@haktan0313/videos" target="blank">
-    <img align="center" src="https://homes4hope.org/wp-content/uploads/2019/01/youtube-icon-flat-red-play-button-logo-vector.png" alt="Youtube" width="38"/></a> 
+    <img align="center" src="https://homes4hope.org/wp-content/uploads/2019/01/youtube-icon-flat-red-play-button-logo-vector.png" alt="Youtube" width="69"/></a> 
 
 </p>
 
