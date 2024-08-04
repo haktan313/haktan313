@@ -3,7 +3,8 @@
 
 
 <p align = "center">
-Game Developer 
+21-year-old Game Developer skilled in Unreal Engine 5 Blueprint, and C++.
+
 </p>
 <br/>
 
