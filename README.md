@@ -20,7 +20,7 @@ Game & Web Developer
  
    <img align="center" src="https://i.redd.it/tu3gt6ysfxq71.png" alt="Unity" width="69"/>
   
-   <img align="center" src="https://www.javacodegeeks.com/wp-content/uploads/2024/01/pngegg-1-1.png" alt="C#" width="69"/>
+   <img align="center" src="https://habrastorage.org/getpro/habr/upload_files/e3a/b20/5b7/e3ab205b70faa003e39f9895a014858f.png" alt="C#" width="69"/>
 </p>
 
 <br/>
