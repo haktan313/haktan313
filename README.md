@@ -16,7 +16,7 @@ Game & Web Developer
  
    <img align="center" src="https://pnghq.com/wp-content/uploads/download-unreal-engine-logo-in-svg-vector-or-png-file-format-51334-2048x1365.png" alt="Unreal Engine 5" width="128"/>
   
-   <img align="center" src="https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png" alt="C++" width="69"/>
+   <img align="center" src="https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png" alt="C++" width="128"/>
  
    <img align="center" src="https://i.redd.it/tu3gt6ysfxq71.png" alt="Unity" width="69"/>
   
