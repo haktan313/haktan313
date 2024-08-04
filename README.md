@@ -18,9 +18,9 @@ Game & Web Developer
   
    <img align="center" src="https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png" alt="C++" width="35"/></a> 
  
-   <img align="center" src="" alt="Blender3D" width="38"/></a> 
+   <img align="center" src="" alt="https://polinallc.com/wp-content/uploads/2020/12/59c8f48ebbddbd06fb6f28d3.png" alt="Unity" width="38"/></a> 
   
-   <img align="center" src="https://pbs.twimg.com/profile_images/2915139264/c84035a7d2eb9ede8f23fa6104dc2e5c_400x400.png" alt="Solidworks" width="38"/></a> 
+   <img align="center" src="https://www.javacodegeeks.com/wp-content/uploads/2024/01/pngegg-1-1.png" alt="C#" width="38"/></a> 
 </p>
 
 <br/>
