@@ -27,13 +27,17 @@
 <p> <h2 align="center"> :bulb:  Languages and Tools</h2> </p>
 <p align="center">
  
-   <img align="center" src="https://steamuserimages-a.akamaihd.net/ugc/767148481029971829/D531C176558ACA905307D3A3F477EB3218E865B9/" alt="Unreal Engine 5" width="80"/>
-  
-   <img align="center" src="https://brandlogos.net/wp-content/uploads/2022/01/c-brandlogo.net_.png" alt="C++" width="96"/>
- 
-   <img align="center" src="https://i.redd.it/tu3gt6ysfxq71.png" alt="Unity" width="69"/>
-  
-   <img align="center" src="https://assets.codeguru.com/uploads/2021/08/C-Sharp-Tutorials-1920x1080.png" alt="C#" width="128"/>
+ <a href="https://www.unrealengine.com/en-US/unreal-engine-5" target="blank">
+   <img align="center" src="https://steamuserimages-a.akamaihd.net/ugc/767148481029971829/D531C176558ACA905307D3A3F477EB3218E865B9/" alt="Unreal Engine 5" width="80"/></a> 
+
+  <a href="https://cplusplus.com/doc/tutorial/" target="blank">
+   <img align="center" src="https://brandlogos.net/wp-content/uploads/2022/01/c-brandlogo.net_.png" alt="C++" width="96"/></a> 
+
+ <a href="https://unity.com" target="blank">
+   <img align="center" src="https://i.redd.it/tu3gt6ysfxq71.png" alt="Unity" width="69"/></a> 
+
+  <a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/" target="blank">
+   <img align="center" src="https://assets.codeguru.com/uploads/2021/08/C-Sharp-Tutorials-1920x1080.png" alt="C#" width="128"/></a> 
 </p>
 
 <br/>
