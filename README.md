@@ -14,13 +14,13 @@ Game & Web Developer
 <p> <h2 align="center"> :bulb:  Languages and Tools</h2> </p>
 <p align="center">
  
-   <img align="center" src="https://pnghq.com/wp-content/uploads/download-unreal-engine-logo-in-svg-vector-or-png-file-format-51334-2048x1365.png" alt="Unreal Engine 5" width="128"/></a>
+   <img align="center" src="https://pnghq.com/wp-content/uploads/download-unreal-engine-logo-in-svg-vector-or-png-file-format-51334-2048x1365.png" alt="Unreal Engine 5" width="128"/>
   
-   <img align="center" src="https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png" alt="C++" width="69"/></a> 
+   <img align="center" src="https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png" alt="C++" width="69"/>
  
-   <img align="center" src="https://polinallc.com/wp-content/uploads/2020/12/59c8f48ebbddbd06fb6f28d3.png" alt="Unity" width="69"/></a> 
+   <img align="center" src="https://polinallc.com/wp-content/uploads/2020/12/59c8f48ebbddbd06fb6f28d3.png" alt="Unity" width="69"/>
   
-   <img align="center" src="https://www.javacodegeeks.com/wp-content/uploads/2024/01/pngegg-1-1.png" alt="C#" width="69"/></a> 
+   <img align="center" src="https://www.javacodegeeks.com/wp-content/uploads/2024/01/pngegg-1-1.png" alt="C#" width="69"/>
 </p>
 
 <br/>
