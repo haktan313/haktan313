@@ -18,7 +18,7 @@ Game & Web Developer
   
    <img align="center" src="https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png" alt="C++" width="69"/>
  
-   <img align="center" src="https://polinallc.com/wp-content/uploads/2020/12/59c8f48ebbddbd06fb6f28d3.png" alt="Unity" width="69"/>
+   <img align="center" src="https://i.redd.it/tu3gt6ysfxq71.png" alt="Unity" width="69"/>
   
    <img align="center" src="https://www.javacodegeeks.com/wp-content/uploads/2024/01/pngegg-1-1.png" alt="C#" width="69"/>
 </p>
