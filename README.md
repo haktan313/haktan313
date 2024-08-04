@@ -20,7 +20,7 @@ Game & Web Developer
  
    <img align="center" src="https://i.redd.it/tu3gt6ysfxq71.png" alt="Unity" width="69"/>
   
-   <img align="center" src="https://assets.codeguru.com/uploads/2021/08/C-Sharp-Tutorials-1920x1080.png" alt="C#" width="69"/>
+   <img align="center" src="https://assets.codeguru.com/uploads/2021/08/C-Sharp-Tutorials-1920x1080.png" alt="C#" width="96"/>
 </p>
 
 <br/>
