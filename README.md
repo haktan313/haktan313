@@ -16,7 +16,7 @@ Game & Web Developer
  
    <img align="center" src="https://steamuserimages-a.akamaihd.net/ugc/767148481029971829/D531C176558ACA905307D3A3F477EB3218E865B9/" alt="Unreal Engine 5" width="80"/>
   
-   <img align="center" src="https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png" alt="C++" width="128"/>
+   <img align="center" src="https://brandlogos.net/wp-content/uploads/2022/01/c-brandlogo.net_.png" alt="C++" width="128"/>
  
    <img align="center" src="https://i.redd.it/tu3gt6ysfxq71.png" alt="Unity" width="69"/>
   
