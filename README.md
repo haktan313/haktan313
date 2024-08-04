@@ -3,10 +3,7 @@
 
 
 <p align = "center">
-Coordinator at @overdrive_tr
-Mentor at @maximusrobotics 
-Game & Web Developer 
-3D Artist
+Game Developer 
 </p>
 <br/>
 
@@ -28,4 +25,4 @@ Game & Web Developer
 
 <br>
 <p> <h2 align="center"> 📫 How To Reach Me </h2> </p>
-<p align="center">- Discord: Mergen#8451 </p>            <p align="center">- Web Page: http://mertatestopuz.com.tr/Link.html </p> 
+<p align="center">- Discord: haktancagri </p>            <p align="center">- e-mail: xhaktankodat12@gmail.com </p> 
