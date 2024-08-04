@@ -14,7 +14,7 @@ Game & Web Developer
 <p> <h2 align="center"> :bulb:  Languages and Tools</h2> </p>
 <p align="center">
  
-   <img align="center" src="https://steamuserimages-a.akamaihd.net/ugc/767148481029971829/D531C176558ACA905307D3A3F477EB3218E865B9/" alt="Unreal Engine 5" width="128"/>
+   <img align="center" src="https://steamuserimages-a.akamaihd.net/ugc/767148481029971829/D531C176558ACA905307D3A3F477EB3218E865B9/" alt="Unreal Engine 5" width="96"/>
   
    <img align="center" src="https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png" alt="C++" width="128"/>
  
