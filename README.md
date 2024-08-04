@@ -40,11 +40,6 @@ Game & Web Developer
 
 <br/>
 
-<p> <h2 align="center">📈 Github Stats </h2> </p>
-<img align="left" src=https://github-readme-stats.vercel.app/api?username=MertAtesTopuz&&show_icons=true&title_color=fffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515 >
-<img align="center" src= https://github-readme-streak-stats.herokuapp.com/?user=MertAtesTopuz&theme=tokyonight&date_format=j%20M%5B%20Y%5D
- >
-
 
 <br>
 <p> <h2 align="center"> 📫 How To Reach Me </h2> </p>
