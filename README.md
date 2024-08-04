@@ -14,21 +14,10 @@
   
 <a href="https://www.instagram.com/haktan_muaddib/" target="blank">
     <img align="center" src="https://freepngimg.com/download/computer/68394-computer-instagram-icons-png-file-hd.png" alt="Instagram" width="38"/></a> 
-  
-<a href="https://www.solidworks.com/tr?utm_medium=cpc&utm_source=google&utm_campaign=202001_glo_ps_sea_tr_XOP6888_labl_brand_eme_tr&mktid=&gclid=Cj0KCQjwyYKUBhDJARIsAMj9lkG2_NIqHTAR9KWZEwgbYK09pnBI5dNjdBkTbx2P13IPDU3B9VpMkNgaAgfqEALw_wcB" target="blank">
-    <img align="center" src="https://pbs.twimg.com/profile_images/2915139264/c84035a7d2eb9ede8f23fa6104dc2e5c_400x400.png" alt="Solidworks" width="38"/></a> 
  
-<a href="https://www.python.org" target="blank">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="Python" width="38"/></a> 
-  
-<a href="https://www.w3schools.com/html/" target="blank">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/112/PNG/512/html5_18891.png" alt="HTML5" width="40"/></a> 
-  
-<a href="https://www.w3schools.com/css/default.asp" target="blank">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/844/PNG/512/CSS3_icon-icons.com_67069.png" alt="CSS3" width="40"/></a> 
-    
-<a href="https://www.aseprite.org" target="blank">
-    <img align="center" src="https://updov.com/wp-content/uploads/2022/02/aseprite-download.png" alt="Python" width="38"/></a>
+<a href="https://www.youtube.com/@haktan0313/videos" target="blank">
+    <img align="center" src="https://homes4hope.org/wp-content/uploads/2019/01/youtube-icon-flat-red-play-button-logo-vector.png" alt="Youtube" width="38"/></a> 
+
 </p>
 
 </p>
