@@ -10,10 +10,10 @@
     <img align="center" src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png" alt="LinkedIn" width="35"/></a>
   
 <a href="https://haktan0313.itch.io/" target="blank">
-    <img align="center" src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-wwio9bi8.png" alt="C#" width="35"/></a> 
+    <img align="center" src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-wwio9bi8.png" alt="itch.io" width="35"/></a> 
   
-<a href="https://www.blender.org" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="Blender3D" width="38"/></a> 
+<a href="https://www.instagram.com/haktan_muaddib/" target="blank">
+    <img align="center" src="https://freepngimg.com/download/computer/68394-computer-instagram-icons-png-file-hd.png" alt="Instagram" width="38"/></a> 
   
 <a href="https://www.solidworks.com/tr?utm_medium=cpc&utm_source=google&utm_campaign=202001_glo_ps_sea_tr_XOP6888_labl_brand_eme_tr&mktid=&gclid=Cj0KCQjwyYKUBhDJARIsAMj9lkG2_NIqHTAR9KWZEwgbYK09pnBI5dNjdBkTbx2P13IPDU3B9VpMkNgaAgfqEALw_wcB" target="blank">
     <img align="center" src="https://pbs.twimg.com/profile_images/2915139264/c84035a7d2eb9ede8f23fa6104dc2e5c_400x400.png" alt="Solidworks" width="38"/></a> 
