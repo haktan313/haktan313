@@ -4,9 +4,10 @@
 
 <p align = "center">
 21-year-old Game Developer skilled in Unreal Engine 5 Blueprint, and C++.
+ 
 <p align="center">
-<a href="https://unity.com" target="blank">
-    <img align="center" src="https://i.redd.it/tu3gt6ysfxq71.png" alt="Unity" width="35"/></a>
+<a href="https://www.linkedin.com/in/haktan-%C3%A7a%C4%9Fr%C4%B1-kodat-3b01b7297/" target="blank">
+    <img align="center" src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png" alt="LinkedIn" width="35"/></a>
   
 <a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/" target="blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="C#" width="35"/></a> 
@@ -29,6 +30,7 @@
 <a href="https://www.aseprite.org" target="blank">
     <img align="center" src="https://updov.com/wp-content/uploads/2022/02/aseprite-download.png" alt="Python" width="38"/></a>
 </p>
+
 </p>
 <br/>
 
